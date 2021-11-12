@@ -1,4 +1,6 @@
-baseURL = 'http://example.org/'
+baseURL = 'https://www.programmerspledge.com/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'Programmers Pledge'
 theme = 'hugo-theme-learn'
+[params]
+themeVariant = 'ath15'
