@@ -8,7 +8,7 @@ weight = 5
  
 The programmers pledge exists to encourage developers to improve code quality.  I originally [blogged this idea in 2011](http://csharpdeveloper.wordpress.com/2011/01/09/a-programmers-pledge-to-quality-assurance).
 
-* [Pledge to the Quality Assurance Team](one)
-* [Pledge to my fellow Programmers](two)
+* [Pledge to the Quality Assurance Team](pledges/one/index.html)
+* [Pledge to my fellow Programmers](pledges/two/index.html)
 
 
