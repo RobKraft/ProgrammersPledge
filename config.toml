@@ -2,5 +2,6 @@ baseURL = 'https://www.programmerspledge.com/'
 languageCode = 'en-us'
 title = 'Programmers Pledge'
 theme = 'hugo-theme-learn'
+googleAnalytics = 'G-6E3L2W96FG'
 [params]
 themeVariant = 'ath15'
